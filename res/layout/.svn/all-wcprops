@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/android/!svn/ver/22870/android_oem/saas/saas_demo/trunk/IdCardScanDemo/res/layout
+END
+activity_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/android/!svn/ver/22917/android_oem/saas/saas_demo/trunk/IdCardScanDemo/res/layout/activity_main.xml
+END
+ocr_camera.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/android/!svn/ver/22917/android_oem/saas/saas_demo/trunk/IdCardScanDemo/res/layout/ocr_camera.xml
+END
