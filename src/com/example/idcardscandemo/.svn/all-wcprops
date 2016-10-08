@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/android/!svn/ver/22870/android_oem/saas/saas_demo/trunk/IdCardScanDemo/src/com/example/idcardscandemo
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/android/!svn/ver/22917/android_oem/saas/saas_demo/trunk/IdCardScanDemo/src/com/example/idcardscandemo/MainActivity.java
+END
+CameraManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/android/!svn/ver/22917/android_oem/saas/saas_demo/trunk/IdCardScanDemo/src/com/example/idcardscandemo/CameraManager.java
+END
+ACameraActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/android/!svn/ver/22917/android_oem/saas/saas_demo/trunk/IdCardScanDemo/src/com/example/idcardscandemo/ACameraActivity.java
+END

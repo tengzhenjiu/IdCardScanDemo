@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/android/!svn/ver/22917/android_oem/saas/saas_demo/trunk/IdCardScanDemo/src/com/example/idcardscandemo/utils
+END
+NetUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/android/!svn/ver/22917/android_oem/saas/saas_demo/trunk/IdCardScanDemo/src/com/example/idcardscandemo/utils/NetUtil.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/android/!svn/ver/22917/android_oem/saas/saas_demo/trunk/IdCardScanDemo/src/com/example/idcardscandemo/utils/FileUtil.java
+END
+HttpUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/android/!svn/ver/22917/android_oem/saas/saas_demo/trunk/IdCardScanDemo/src/com/example/idcardscandemo/utils/HttpUtil.java
+END
