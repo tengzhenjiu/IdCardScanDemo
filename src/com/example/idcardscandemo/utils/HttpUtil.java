@@ -37,8 +37,8 @@ public class HttpUtil {
 	    private static String mxh=android.os.Build.MODEL;// 获取手机型号
 	    //访问服务器地址
 	    public static String ENGINE_URL="http://www.yunmaiocr.com/SrvXMLAPI";
-		public static final String USERNAME="a4c6d40b-63dc-4ea9-a81d-abca19d38d02";//开发者平台API帐号
-		public static final String PASSWORD="eEZQnGyGEWcuzerLzMhcZvVzLPuvOG";//开发者平台API密码
+		public static final String USERNAME="83033a39-cc4c-4466-bd6c-2010199db469";//开发者平台API帐号
+		public static final String PASSWORD="tmPCCSkiAZfLVWhBOChIcvEdmpBAIS";//开发者平台API密码
 		
 		public static final String connFail="确认网络连接是否正常！";
 		
